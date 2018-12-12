@@ -14,17 +14,17 @@ export const sources = [
     }
   },
   {
-    filename: 'day-view-scheduler.component.ts',
+    filename: 'day-view-calender-scheduler-view.component.ts',
     contents: {
       raw: require('!!raw-loader!./day-view-scheduler.component'),
       highlighted: require('!!raw-loader!highlightjs-loader?lang=typescript!./day-view-scheduler.component')
     }
   },
   {
-    filename: 'day-view-scheduler.component.html',
+    filename: 'day-view-calender-scheduler-view.component.html',
     contents: {
-      raw: require('!!raw-loader!./day-view-scheduler.component.html'),
-      highlighted: require('!!raw-loader!highlightjs-loader?lang=xml!./day-view-scheduler.component.html')
+      raw: require('!!raw-loader!./day-view-calender-scheduler-view.component.html'),
+      highlighted: require('!!raw-loader!highlightjs-loader?lang=xml!./day-view-calender-scheduler-view.component.html')
     }
   },
   {
